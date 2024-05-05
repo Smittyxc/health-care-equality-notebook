@@ -1,4 +1,4 @@
-[header](lown_logo.PNG)
+![header](lown_logo.PNG)
 
 # Health Care Quality and Inclusivity
 ### (Ensure you're viewing from nbviewer to see interactive plots)
